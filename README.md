@@ -8,7 +8,7 @@
 
 **Stack:** Next.js 15 · React 19 · TypeScript · Prisma 6 · PostgreSQL · NextAuth · Tailwind CSS · Railway
 
-**Uso:** em uso pela equipe da Polo Negócios Imobiliários (Uberlândia, MG) desde `[mês/ano]`, com 4 usuários ativos.
+**Uso:** em uso pela equipe da Polo Negócios Imobiliários (Uberlândia, MG) desde Junho/2026, com 4 usuários ativos.
 
 **Status:** em produção, em evolução contínua.
 
