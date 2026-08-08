@@ -68,7 +68,7 @@ Fora do escopo atual: página pública para visitantes, disponibilidade individu
 
 Uma agenda compartilhada tem uma condição de corrida óbvia: dois usuários reservando o mesmo horário simultaneamente. Validar só na interface não resolve, e validar só no servidor ainda deixa janela entre a checagem e a escrita.
 
-A solução combina as três: a interface impede a seleção, o servidor valida a requisição e o PostgreSQL rejeita a escrita por constraint. A última camada é a que garante correção sob concorrência real.
+A solução combina as três camadas: a interface impede a seleção, o servidor valida a requisição e o PostgreSQL rejeita a escrita por constraint. Especificar a terceira camada foi a decisão que garantiu correção sob concorrência real — validação de aplicação sozinha deixa janela entre a checagem e a escrita.
 
 ---
 
