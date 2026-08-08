@@ -89,9 +89,9 @@ OAuth, rotas protegidas, validação com Zod, autorização por sessão, papéis
 
 ## Minha participação
 
-Levantamento do problema, definição do produto, arquitetura da solução e especificação técnica de todas as camadas. Conduzi a implementação orquestrando agentes de código: escrevi as specs com escopo, critérios de aceite e dependências, e fiz a validação e revisão de cada entrega.
+Análise da base existente, definição do que manter e do que substituir, e condução da evolução até a agenda interna atual. Especifiquei as regras de reserva, o modelo de acesso, a política de privacidade e a estratégia de prevenção de conflitos, e conduzi a implementação orquestrando agentes de código, com validação e revisão de cada entrega.
 
-Também atuei na modelagem de dados, no desenho das integrações e do processamento assíncrono, na definição do fluxo documental e de relatórios, na aplicação responsável de IA, na análise de custo das fontes e na validação técnica dos fluxos. O trabalho é conduzido de forma incremental, com separação entre funcionalidades comprovadas, itens em validação e hipóteses futuras.
+O trabalho abrangeu fluxo, atualização de stack, identidade visual, administração, notificações e implantação. A aplicação não é apresentada como criada integralmente do zero.
 
 ---
 
